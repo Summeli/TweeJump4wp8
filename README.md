@@ -13,7 +13,7 @@ System requirements
 
 License
 ===================
-The TweeJump project is licensed under MIT license See [MIT].
+The TweeJump project is licensed under [MIT] license.
 The original TweeJump project can be found from google code: [TweeJump project] 
 
 [Nokia developer wiki]: http://developer.nokia.com/Community/Wiki/Porting_Cocos2d-x_Games_for_Windows_Phone_8
