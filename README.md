@@ -15,7 +15,9 @@ License
 ===================
 The TweeJump project is licensed under [MIT] license.
 The original TweeJump project can be found from google code: [TweeJump project] 
+All images are copyrighted by [Sergey Tikhonov]. Please use them only for learning purposes, and don't release with your own project.
 
 [Nokia developer wiki]: http://developer.nokia.com/Community/Wiki/Porting_Cocos2d-x_Games_for_Windows_Phone_8
 [MIT]: http://opensource.org/licenses/mit-license.php
 [TweeJump project]: https://code.google.com/p/tweejump-cocos2dx
+[Sergey Tikhonov]: http://haqu.net/
